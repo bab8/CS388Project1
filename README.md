@@ -34,6 +34,11 @@ Here's a walkthrough of implemented user stories:
 
 
 
+https://github.com/bab8/CS388Project1/assets/89927142/934767a1-ed8a-4c57-87db-1242f5ec33a6
+
+
+Original Uncompressed Video exists on repo at link
+https://github.com/bab8/CS388Project1/blob/master/WordleProject.mp4
 
 
 ## Notes
